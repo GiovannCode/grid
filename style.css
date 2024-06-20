@@ -1,0 +1,97 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.acordion{
+    margin-top: 40px;
+    width: 70%;
+    margin: 0 auto;
+}
+.top{
+    margin-bottom: 20px;
+}
+.accordion-body{
+    font-weight: lighter;
+}
+.accordion-button{
+    font-weight: bold;
+}
+.midle{
+    margin-top: 20px;
+}
+.card-title{
+    text-align: center;
+}
+.container-cards{
+    border: 1px solid #84b9f5;
+    background-color: #c4dfff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.card-center{
+    margin: 0 auto;
+}
+.card{
+    margin-top: 20px 0;
+    height: 600px;
+}
+.card-img-top{
+    height: 300px;
+    aspect-ratio: 1/1;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    width: 100%;
+    bottom: 0;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.footer-section {
+    flex: 1;
+    margin: 20px;
+}
+
+.footer-section h2 {
+    margin-bottom: 10px;
+}
+
+.footer-section p, .footer-section ul, .footer-section li {
+    margin: 5px 0;
+    line-height: 1.6;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-section ul li a:hover {
+    text-decoration: underline;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding: 10px;
+    border-top: 1px solid #777;
+    margin-top: 20px;
+}
+
+.footer-section .fas {
+    margin-right: 10px;
+}
